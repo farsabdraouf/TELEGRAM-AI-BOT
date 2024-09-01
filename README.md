@@ -21,8 +21,8 @@
 
 1. قم بنسخ المستودع:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/farsabdraouf/telegram-ai-bot.git
+   cd telegram-ai-bot
    ```
 
 2. قم بتثبيت المكتبات المطلوبة:
